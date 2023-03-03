@@ -1,17 +1,14 @@
 
-Greetings. Welcome to my profile!
+Welcome to my profile!
 
-Here is information about me that can help you to decide whether you are interested on my profile or not.
+👾 I'm a passionate Full Stack web developer interested in front-end as much as back-end. I really like challenges, creating and learning. I am an empathetic, curious, open-minded person, charismatic and responsable person.
 
-I'm a 20 years old, graduated from Henry's immersive bootcamp (800+ hours in 4 months), in a state of constantly learning and specializing in the technologyes that I already know well, which are: JavaScript, HTML5, CSS, React, Redux, SQL, NodeJs, Express, among others. 
+💼 I have worked individually and I have had the pleasure of being able to meet and work as a team with good people who helped me a lot to develop my skills, learn, improve my practices. These were important experiences for me as they helped me grow as a developer and as a person.
 
-Why me?
+📌I invite you to see my projects! Scrolling down you will find my pinned repositories.
 
-I'm a person with a high level of commitment and responsibility. I'm also very adaptive and can answer quickly to sudden changes in the working plan.
-I never struggle learning new things and understand everything pretty fast, mainly because I grew up with a computer in my hands and get along very well with logic thougth. Always looking for a better understanding of the world.
-Last but not least, I consider myself as a very eloquent person, charismatic and open minded.
+🎓 Full Stack Developer & Economics and Management of Organizations.
 
 If you want to know more about me, here are my contacts:
 
 📧 fuadignaciososa@gmail.com
-📞 +54 9 3435619642
