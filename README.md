@@ -16,7 +16,7 @@
 
 🕹 My hobbies are coding, calisthenics, climbing, playing videogames and watch series and movies.
 
-📫 You can email me at: braivaldez16@gmail.com
+📫 You can email me at: fuadignaciososa@gmail.com
          
 </div>
 
