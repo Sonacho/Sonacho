@@ -1,5 +1,4 @@
 
-Acerca deAcerca de
 Greetings. Welcome to my profile!
 
 Here is information about me that can help you to decide whether you are interested on my profile or not.
