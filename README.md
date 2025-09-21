@@ -14,7 +14,7 @@
          
 🌱 I'm currently learning new tecnologies and new practices, but in other hand I am continously improving my current skills working in personal projects.
 
-🕹 My hobbies are coding, calisthenics, climbing, playing videogames and watch series and movies.
+🕹 My hobbies are coding, calisthenics, climbing and playing videogames.
 
 📫 You can email me at: fuadignaciososa@gmail.com
          
